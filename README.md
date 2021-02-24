@@ -19,4 +19,4 @@ This folder contains:
 background color, media queries, color changes on hover, etc.
 
 5. A Jupyter notebook called data-to-html.ipynb that was used to read the CSV file into a dataframe and 
-convert that into an HTML table to use in the website. 
+convert that into an HTML table to use in the website.
